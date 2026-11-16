@@ -2,7 +2,9 @@
 
 ### Evaluating Higher-Order Confidence Judgments in an LLM
 
-**Pau Kraus · AI × Epistemics Research Sprint · November 2026**
+**Pau Kraus · November 2026**
+
+This project was developed for [Apart Research’s AI × Epistemics Research Sprint](https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15), held November 13–15, 2026. It addresses **Track 1: Model Epistemics & Decision-Making Evals**, investigating whether reviewing an LLM’s confidence provides useful information about the reliability of its answers.
 
 An AI's confidence can influence whether people rely on its answers. Can asking it to review that confidence reveal useful information that the original confidence report misses?
 
