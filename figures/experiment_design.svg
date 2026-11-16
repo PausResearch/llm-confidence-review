@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="344" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 344" version="1.0" fill-rule="evenodd" role="img" aria-labelledby="figure-title figure-description">
+	<title id="figure-title">Trial design and judgment targets</title><desc id="figure-description">A shows an illustrative psychology question, an answer B and initial confidence p=80%, generated in one API call and then frozen. B contrasts ordinary reassessment of the answer, yielding q, with a reliability judgment about the original confidence, yielding r=LOW or HIGH. Both review types receive the same full record. An additional fresh call repeats ordinary reassessment to yield q2. Arrows mark the targets of judgment rather than different evidence. C shows the one-review comparison p+r versus p+q and the two-review comparison p+q+r versus p+q+q2. All statistical scorers include subject and are fitted before held-out evaluation. The example is not an observed study response; the metacognitive labels describe tasks, not established mechanisms.</desc><title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="344" />
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-344)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="720" height="344" style="stroke: none; stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="3" y="330" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 13px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,660) scale(1,-1)" font-family="Arial" font-weight="bold">A  Answer and initial confidence</text>
+			<text x="326" y="330" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 13px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,660) scale(1,-1)" font-family="Arial" font-weight="bold">B  Two kinds of review</text>
+			<text x="3" y="312" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,624) scale(1,-1)" font-family="Arial" font-weight="normal">One initial API call; illustrative item</text>
+			<text x="326" y="312" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,624) scale(1,-1)" font-family="Arial" font-weight="normal">Every review sees the same question, answer and confidence.</text>
+			<rect x="3" y="214" width="253" height="87" rx="1" ry="1" style="stroke: rgb(80%,83%,86%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(98%,98%,98%); fill-rule: evenodd;" />
+			<text x="15" y="282" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.6px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,564) scale(1,-1)" font-family="Arial" font-weight="normal">A reward follows every five responses.</text>
+			<text x="15" y="267" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.6px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,534) scale(1,-1)" font-family="Arial" font-weight="normal">Which reinforcement schedule is this?</text>
+			<text x="15" y="242" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,484) scale(1,-1)" font-family="Arial" font-weight="normal">A  Fixed interval</text>
+			<text x="141" y="242" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,484) scale(1,-1)" font-family="Arial" font-weight="normal">B  Fixed ratio</text>
+			<text x="15" y="225" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,450) scale(1,-1)" font-family="Arial" font-weight="normal">C  Variable interval</text>
+			<text x="141" y="225" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,450) scale(1,-1)" font-family="Arial" font-weight="normal">D  Variable ratio</text>
+			<rect x="3" y="172" width="253" height="31" rx="1" ry="1" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(95%,96%,98%); fill-rule: evenodd;" />
+			<text x="15" y="183" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 13px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,366) scale(1,-1)" font-family="Arial" font-weight="bold">Answer a = B</text>
+			<rect x="3" y="129" width="253" height="31" rx="1" ry="1" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(93%,97%,96%); fill-rule: evenodd;" />
+			<text x="15" y="140" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 12.7px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,280) scale(1,-1)" font-family="Arial" font-weight="bold">Confidence p = 80%</text>
+			<path d="M 158,144 L 242,144 Z" style="stroke: rgb(80%,83%,86%); stroke-linecap: butt; stroke-width: 3;" />
+			<path d="M 158,144 L 225.2,144 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 3;" />
+			<circle cx="225.2" cy="144" r="3" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(3%,49%,51%); fill-rule: evenodd;" />
+			<text x="3" y="112" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.7px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,224) scale(1,-1)" font-family="Arial" font-weight="normal">Both outputs are frozen before review.</text>
+			<path d="M 256,187.5 L 281,187.5 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 281,187.5 L 281,260 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 281,260 L 326,260 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<polygon points="326 260, 321 262.5, 321 257.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<path d="M 256,144.5 L 305,144.5 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 305,144.5 L 305,150 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 305,150 L 326,150 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<polygon points="326 150, 321 152.5, 321 147.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;" />
+			<rect x="326" y="221" width="391" height="80" rx="1" ry="1" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="340" y="281" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 13px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,562) scale(1,-1)" font-family="Arial" font-weight="bold">Judge the answer</text>
+			<text x="635.77" y="281" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,562) scale(1,-1)" font-family="Arial" font-weight="normal">Metacognition</text>
+			<text x="340" y="260" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,520) scale(1,-1)" font-family="Arial" font-weight="normal">How likely is answer B to be correct?</text>
+			<text x="340" y="236" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.4px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,472) scale(1,-1)" font-family="Arial" font-weight="normal">New confidence q</text>
+			<path d="M 494,238 L 685,238 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 494,241 L 494,235 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1;" />
+			<path d="M 685,241 L 685,235 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1;" />
+			<text x="486.0525" y="225" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,450) scale(1,-1)" font-family="Arial" font-weight="normal">0%</text>
+			<text x="670.9365" y="225" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,450) scale(1,-1)" font-family="Arial" font-weight="normal">100%</text>
+			<text x="326" y="203" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.6px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,406) scale(1,-1)" font-family="Arial" font-weight="normal">Repeat this prompt in another fresh call to obtain q2.</text>
+			<rect x="326" y="117" width="391" height="64" rx="1" ry="1" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="340" y="162" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 13px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,324) scale(1,-1)" font-family="Arial" font-weight="bold">Judge the confidence</text>
+			<text x="608.1652" y="162" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,324) scale(1,-1)" font-family="Arial" font-weight="normal">Meta-metacognition</text>
+			<text x="340" y="142" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,284) scale(1,-1)" font-family="Arial" font-weight="normal">Was 80% a reasonable estimate for answer B?</text>
+			<text x="340" y="123" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.4px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,246) scale(1,-1)" font-family="Arial" font-weight="normal">Reliability r</text>
+			<rect x="424" y="119" width="47" height="16" rx="1" ry="1" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="435.7683" y="123.5" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.3px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,247) scale(1,-1)" font-family="Arial" font-weight="normal">LOW</text>
+			<rect x="480" y="119" width="47" height="16" rx="1" ry="1" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="490.625" y="123.5" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.3px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,247) scale(1,-1)" font-family="Arial" font-weight="normal">HIGH</text>
+			<path d="M 3,99 L 717,99 Z" style="stroke: rgb(80%,83%,86%); stroke-linecap: butt; stroke-width: 0.8;" />
+			<text x="3" y="82" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 12.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,164) scale(1,-1)" font-family="Arial" font-weight="bold">C  Which review better predicts whether the frozen answer is correct?</text>
+			<text x="3" y="61" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 11px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,122) scale(1,-1)" font-family="Arial" font-weight="bold">Primary comparison: one review each</text>
+			<text x="381" y="61" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 11px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,122) scale(1,-1)" font-family="Arial" font-weight="bold">Two-review control</text>
+			<text x="46.81" y="39" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 17px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,78) scale(1,-1)" font-family="Arial" font-weight="bold">p + r</text>
+			<text x="134.06625" y="39" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.5px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,78) scale(1,-1)" font-family="Arial" font-weight="normal">versus</text>
+			<text x="220.923" y="39" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 17px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,78) scale(1,-1)" font-family="Arial" font-weight="bold">p + q</text>
+			<text x="396.9265" y="39" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 17px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,78) scale(1,-1)" font-family="Arial" font-weight="bold">p + q + r</text>
+			<text x="514.06625" y="39" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.5px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,78) scale(1,-1)" font-family="Arial" font-weight="normal">versus</text>
+			<text x="593.3135" y="39" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 17px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,78) scale(1,-1)" font-family="Arial" font-weight="bold">p + q + q2</text>
+			<text x="19.783049999999996" y="23" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.3px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,46) scale(1,-1)" font-family="Arial" font-weight="normal">confidence review</text>
+			<text x="183.8559" y="23" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.3px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,46) scale(1,-1)" font-family="Arial" font-weight="normal">ordinary reassessment</text>
+			<text x="400.4731" y="23" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.3px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,46) scale(1,-1)" font-family="Arial" font-weight="normal">one of each</text>
+			<text x="581.5115499999999" y="23" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11.3px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,46) scale(1,-1)" font-family="Arial" font-weight="normal">two ordinary reviews</text>
+			<text x="3" y="3" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 11px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,6) scale(1,-1)" font-family="Arial" font-weight="normal">Fit on 480 calibration questions; freeze scorers; compare Brier error on 1,600 held-out questions.</text>
+		</g>
+	</g>
+</svg>

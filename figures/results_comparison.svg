@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="307" preserveAspectRatio="xMinYMin meet" viewBox="0 0 660 307" version="1.0" fill-rule="evenodd" role="img" aria-labelledby="figure-title figure-description">
+	<title id="figure-title">Prediction quality and comparison uncertainty</title><desc id="figure-description">Panel A shows held-out Brier scores for the five fitted scoring rules. Panel B shows all four planned Brier differences and both the original evaluation-only bootstrap intervals and the post-hoc intervals that refit on resampled calibration data. Negative differences favour confidence review. The primary comparison includes zero in both analyses. The secondary benefit beyond original confidence remains below zero in both.</desc><title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="660" height="307" />
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-307)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="660" height="307" style="stroke: none; stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="3" y="292" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 13px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,584) scale(1,-1)" font-family="Arial" font-weight="bold">A  Prediction error</text>
+			<text x="338" y="292" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 13px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,584) scale(1,-1)" font-family="Arial" font-weight="bold">B  Strength of the comparisons</text>
+			<text x="3" y="274" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.5px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,548) scale(1,-1)" font-family="Arial" font-weight="normal">1,600 held-out questions; lower is better</text>
+			<text x="338" y="274" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.5px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,548) scale(1,-1)" font-family="Arial" font-weight="normal">Points and 95% uncertainty intervals</text>
+			<path d="M 145,261 L 145,75 Z" style="stroke: rgb(90%,92%,94%); stroke-linecap: butt; stroke-width: 0.8;" />
+			<text x="132.49" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">0.156</text>
+			<path d="M 191.285714,261 L 191.285714,75 Z" style="stroke: rgb(90%,92%,94%); stroke-linecap: butt; stroke-width: 0.8;" />
+			<text x="178.7757142857143" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">0.160</text>
+			<path d="M 237.571429,261 L 237.571429,75 Z" style="stroke: rgb(90%,92%,94%); stroke-linecap: butt; stroke-width: 0.8;" />
+			<text x="225.06142857142856" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">0.164</text>
+			<path d="M 283.857143,261 L 283.857143,75 Z" style="stroke: rgb(90%,92%,94%); stroke-linecap: butt; stroke-width: 0.8;" />
+			<text x="271.3471428571429" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">0.168</text>
+			<text x="3" y="248" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,496) scale(1,-1)" font-family="Arial" font-weight="normal">Original confidence</text>
+			<text x="3" y="236" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,472) scale(1,-1)" font-family="Arial" font-weight="normal">only</text>
+			<circle cx="277.93903384798637" cy="245" r="3.5" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<text x="259.50763384798637" y="255" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.2px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,510) scale(1,-1)" font-family="Arial" font-weight="normal">0.16749</text>
+			<text x="3" y="203" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,406) scale(1,-1)" font-family="Arial" font-weight="normal">+ Ordinary review</text>
+			<circle cx="232.44077212534307" cy="206" r="3.5" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<text x="214.00937212534308" y="216" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.2px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,432) scale(1,-1)" font-family="Arial" font-weight="normal">0.16356</text>
+			<text x="3" y="164" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,328) scale(1,-1)" font-family="Arial" font-weight="normal">+ Confidence review</text>
+			<circle cx="186.76159076315952" cy="167" r="3.5" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(3%,49%,51%); fill-rule: evenodd;" />
+			<text x="168.33019076315952" y="177" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.2px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,354) scale(1,-1)" font-family="Arial" font-weight="normal">0.15961</text>
+			<text x="3" y="131" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,262) scale(1,-1)" font-family="Arial" font-weight="normal">+ Two ordinary</text>
+			<text x="3" y="119" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,238) scale(1,-1)" font-family="Arial" font-weight="normal">reviews</text>
+			<circle cx="232.24372581905737" cy="128" r="3.5" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<text x="213.81232581905738" y="138" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.2px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,276) scale(1,-1)" font-family="Arial" font-weight="normal">0.16354</text>
+			<text x="3" y="92" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,184) scale(1,-1)" font-family="Arial" font-weight="normal">+ One of each</text>
+			<text x="3" y="80" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,160) scale(1,-1)" font-family="Arial" font-weight="normal">review</text>
+			<circle cx="171.84539465049627" cy="89" r="3.5" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(3%,49%,51%); fill-rule: evenodd;" />
+			<text x="153.41399465049628" y="99" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.2px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,198) scale(1,-1)" font-family="Arial" font-weight="normal">0.15832</text>
+			<path d="M 145,75 L 307,75 Z" style="stroke: rgb(80%,83%,86%); stroke-linecap: butt; stroke-width: 1;" />
+			<text x="200.1381" y="42" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.7px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,84) scale(1,-1)" font-family="Arial" font-weight="normal">Brier score</text>
+			<text x="3" y="20" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,40) scale(1,-1)" font-family="Arial" font-weight="normal">All rules include original confidence and subject.</text>
+			<text x="3" y="7" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,14) scale(1,-1)" font-family="Arial" font-weight="normal">Rules were fitted before evaluation.</text>
+			<path d="M 494,261 L 494,75 Z" style="stroke: rgb(90%,92%,94%); stroke-linecap: butt; stroke-width: 0.8;" />
+			<text x="479.825" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">-0.012</text>
+			<path d="M 554,261 L 554,75 Z" style="stroke: rgb(90%,92%,94%); stroke-linecap: butt; stroke-width: 0.8;" />
+			<text x="539.825" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">-0.006</text>
+			<path d="M 614,261 L 614,75 Z" style="stroke: rgb(32%,38%,43%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;" />
+			<text x="611.22" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">0</text>
+			<text x="338" y="248" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,496) scale(1,-1)" font-family="Arial" font-weight="normal">Confidence review vs</text>
+			<text x="338" y="236" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,472) scale(1,-1)" font-family="Arial" font-weight="normal">ordinary review</text>
+			<text x="338" y="223" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 8.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,446) scale(1,-1)" font-family="Arial" font-weight="bold">PRIMARY</text>
+			<path d="M 525.232933,248 L 622.42582,248 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 525.232933,251 L 525.232933,245 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 622.42582,251 L 622.42582,245 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<circle cx="574.5241642549029" cy="248" r="2.7" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<path d="M 521.197652,239 L 644.379156,239 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 521.197652,242 L 521.197652,236 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 644.379156,242 L 644.379156,236 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<rect x="571.8241642549028" y="236.3" width="5.399999999999977" height="5.400000000000006" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="338" y="199" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,398) scale(1,-1)" font-family="Arial" font-weight="normal">One of each vs</text>
+			<text x="338" y="187" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,374) scale(1,-1)" font-family="Arial" font-weight="normal">two ordinary reviews</text>
+			<path d="M 519.481777,199 L 602.453395,199 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 519.481777,202 L 519.481777,196 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 602.453395,202 L 602.453395,196 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<circle cx="561.8039113358114" cy="199" r="2.7" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<path d="M 520.962824,190 L 624.978339,190 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 520.962824,193 L 520.962824,187 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 624.978339,193 L 624.978339,187 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<rect x="559.1039113358114" y="187.3" width="5.399999999999977" height="5.400000000000006" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="338" y="150" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,300) scale(1,-1)" font-family="Arial" font-weight="normal">Add confidence review</text>
+			<text x="338" y="138" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,276) scale(1,-1)" font-family="Arial" font-weight="normal">to ordinary review</text>
+			<path d="M 525.331709,150 L 595.984887,150 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 525.331709,153 L 525.331709,147 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 595.984887,153 L 595.984887,147 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<circle cx="561.6336244044534" cy="150" r="2.7" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<path d="M 528.94259,141 L 626.829923,141 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 528.94259,144 L 528.94259,138 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 626.829923,144 L 626.829923,138 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<rect x="558.9336244044533" y="138.3" width="5.399999999999977" height="5.400000000000006" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="338" y="101" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,202) scale(1,-1)" font-family="Arial" font-weight="normal">Add confidence review</text>
+			<text x="338" y="89" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,178) scale(1,-1)" font-family="Arial" font-weight="normal">to original confidence</text>
+			<path d="M 489.681328,101 L 578.272239,101 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 489.681328,104 L 489.681328,98 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 578.272239,104 L 578.272239,98 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<circle cx="535.2046788155816" cy="101" r="2.7" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<path d="M 495.918556,92 L 607.196561,92 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.5;" />
+			<path d="M 495.918556,95 L 495.918556,89 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<path d="M 607.196561,95 L 607.196561,89 Z" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<rect x="532.5046788155815" y="89.3" width="5.399999999999977" height="5.400000000000006" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<path d="M 474,75 L 654,75 Z" style="stroke: rgb(80%,83%,86%); stroke-linecap: butt; stroke-width: 1;" />
+			<text x="512.2655" y="42" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.7px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,84) scale(1,-1)" font-family="Arial" font-weight="normal">Change in Brier score</text>
+			<circle cx="341" cy="23" r="2.7" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<text x="350" y="19" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,38) scale(1,-1)" font-family="Arial" font-weight="normal">Original</text>
+			<rect x="406.3" y="20.3" width="5.399999999999977" height="5.400000000000002" style="stroke: rgb(67%,39%,13%); stroke-linecap: butt; stroke-width: 1.25; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<text x="418" y="19" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,38) scale(1,-1)" font-family="Arial" font-weight="normal">Refit (post hoc)</text>
+			<text x="338" y="6" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 9.7px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,12) scale(1,-1)" font-family="Arial" font-weight="normal">Below zero favours adding or using confidence review.</text>
+		</g>
+	</g>
+</svg>

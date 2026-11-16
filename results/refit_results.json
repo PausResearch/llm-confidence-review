@@ -1,0 +1,158 @@
+{
+  "contrasts": {
+    "matched_one_call": {
+      "first_model": "p_r",
+      "second_model": "p_q",
+      "brier": {
+        "original_point_estimate": -0.003947583574509713,
+        "original_frozen_model_ci95": [
+          -0.00887670672594613,
+          0.0008425820498373753
+        ],
+        "refit_bootstrap_ci95": [
+          -0.009280234772372694,
+          0.0030379155845549305
+        ],
+        "bootstrap_mean": -0.0034580427281805342,
+        "bootstrap_standard_deviation": 0.0030869512967402666,
+        "direction": "negative favors first model"
+      },
+      "log_loss": {
+        "original_point_estimate": -0.018466974088174434,
+        "original_frozen_model_ci95": [
+          -0.03785440858834805,
+          -0.0014565370260943397
+        ],
+        "refit_bootstrap_ci95": [
+          -0.047492150180108994,
+          0.003404309740980746
+        ],
+        "bootstrap_mean": -0.0187843667031794,
+        "bootstrap_standard_deviation": 0.01307740265284039,
+        "direction": "negative favors first model"
+      }
+    },
+    "matched_two_calls": {
+      "first_model": "p_q_r",
+      "second_model": "p_q_q2",
+      "brier": {
+        "original_point_estimate": -0.005219608866418857,
+        "original_frozen_model_ci95": [
+          -0.009451822270680633,
+          -0.0011546605037559548
+        ],
+        "refit_bootstrap_ci95": [
+          -0.009303717601199381,
+          0.0010978338963908377
+        ],
+        "bootstrap_mean": -0.004281799964697005,
+        "bootstrap_standard_deviation": 0.002682317009183953,
+        "direction": "negative favors first model"
+      },
+      "log_loss": {
+        "original_point_estimate": -0.01902782329864535,
+        "original_frozen_model_ci95": [
+          -0.032613520091900744,
+          -0.006328264634787946
+        ],
+        "refit_bootstrap_ci95": [
+          -0.04339368798925982,
+          -0.0005702134038301528
+        ],
+        "bootstrap_mean": -0.019746441406600753,
+        "bootstrap_standard_deviation": 0.010639529951406402,
+        "direction": "negative favors first model"
+      }
+    },
+    "incremental_r": {
+      "first_model": "p_q_r",
+      "second_model": "p_q",
+      "brier": {
+        "original_point_estimate": -0.005236637559554665,
+        "original_frozen_model_ci95": [
+          -0.008866829050179523,
+          -0.0018015112921886893
+        ],
+        "refit_bootstrap_ci95": [
+          -0.008505741020918181,
+          0.0012829923126732121
+        ],
+        "bootstrap_mean": -0.004086292805006149,
+        "bootstrap_standard_deviation": 0.002410760369188827,
+        "direction": "negative favors first model"
+      },
+      "log_loss": {
+        "original_point_estimate": -0.01657271592767511,
+        "original_frozen_model_ci95": [
+          -0.0283854832257973,
+          -0.0056390065783044575
+        ],
+        "refit_bootstrap_ci95": [
+          -0.02778424846318331,
+          0.002231398488360257
+        ],
+        "bootstrap_mean": -0.01418065707266089,
+        "bootstrap_standard_deviation": 0.007591423867886813,
+        "direction": "negative favors first model"
+      }
+    },
+    "reliability_vs_confidence_only": {
+      "first_model": "p_r",
+      "second_model": "p",
+      "brier": {
+        "original_point_estimate": -0.007879532118441845,
+        "original_frozen_model_ci95": [
+          -0.012431867196604567,
+          -0.0035727761191304466
+        ],
+        "refit_bootstrap_ci95": [
+          -0.011808144412416234,
+          -0.0006803438536772285
+        ],
+        "bootstrap_mean": -0.0066457066385972275,
+        "bootstrap_standard_deviation": 0.0027379936868553206,
+        "direction": "negative favors first model"
+      },
+      "log_loss": {
+        "original_point_estimate": -0.02371539846628421,
+        "original_frozen_model_ci95": [
+          -0.03788894264103041,
+          -0.010325100470475676
+        ],
+        "refit_bootstrap_ci95": [
+          -0.03691338986743422,
+          -0.0021852575086811735
+        ],
+        "bootstrap_mean": -0.02071217682448631,
+        "bootstrap_standard_deviation": 0.008499733972828185,
+        "direction": "negative favors first model"
+      }
+    }
+  },
+  "successful_replicates": 2000,
+  "failed_replicates": 0,
+  "failures": [],
+  "failures_replaced": false,
+  "note": "Percentile intervals use successful replicates only; any failure is reported. Original frozen-model intervals and point estimates remain the main analysis.",
+  "created": "2026-11-15T23:08:29.467842+00:00",
+  "plan_fingerprint": "8a0cb038561897b373c5810c56f892e18b785561eec22a1280782cf77ca48864",
+  "post_hoc": true,
+  "source_hashes": {
+    "runs/item_confidence/records.json": "6390a4572262bcc00fa920c4b63e1508348c79fe36a2e5f1791a92be8298a33f",
+    "runs/item_confidence_evaluation/records.json": "f44deee6148bd29e09cfa2dbb3e3df92f8005ddebebe1559659707f6bb637a81",
+    "runs/item_confidence_evaluation/results.json": "b9f4f550eca3dfa0d4b55ed9d0d0254001a36cea40e232d11d6a75238cf16ac8",
+    "runs/item_confidence_evaluation/frozen_models.json": "967b8a83d0d209b6565a859858704faaf0fcf9977204bf649e520038df64585d",
+    "runs/item_confidence/protocol.json": "3a4703714ecb00c604cb77d14f07325ed85057eb0affe696e1ba7388ea6d9700",
+    "runs/item_confidence_evaluation/protocol.json": "8017858bae51f9c0084c8362e1da874f1c73841ca2a4488834e8ceeb579c70a6",
+    "diagnostics/item_confidence_analysis.py": "66a523be35ecc15578fede4d136bcfe3907453636b4a26b2e85226967d21fe76",
+    "diagnostics/item_confidence_evaluation_analysis.py": "a97d8ca5f3a07788ac01c362371bed18679dc89d5d3887e608dac8047e1b144e"
+  },
+  "checks": {
+    "source_files_unchanged": true,
+    "no_evaluation_fitting": true,
+    "source_ids_disjoint": true,
+    "original_fit_exactly_reproduced": true,
+    "api_calls": 0
+  },
+  "interpretation": "Post-hoc sensitivity broadens uncertainty to the finite calibration sample; it does not replace or rescue the frozen-model primary analysis, establish equivalence or identify an internal metacognitive mechanism. It does not resample model generations."
+}

@@ -1,0 +1,6402 @@
+[
+  {
+    "id": "q_0040c54bfcee04f6",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.05,
+    "q2": 0.55
+  },
+  {
+    "id": "q_0049f5ad1f8c56f5",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_00a3341f3dba3529",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_00a8758d5f3d04cc",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_010405eb21a8d9ad",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_01c58862fac50c81",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 0,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.97
+  },
+  {
+    "id": "q_01eeff17d35194ce",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.78
+  },
+  {
+    "id": "q_0265eb77b1af624a",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 0,
+    "r": 1,
+    "q": 0.82,
+    "q2": 0.9
+  },
+  {
+    "id": "q_028996ce1328f062",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.99
+  },
+  {
+    "id": "q_03f58f1a430a38d4",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_03fdcda19b47c2ce",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_04f0cc366d55c929",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_0526a2d8c05f8f33",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_0527ac02d20fae74",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.62,
+    "q2": 0.55
+  },
+  {
+    "id": "q_05e71935ab833338",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.95
+  },
+  {
+    "id": "q_062d10ee8301831a",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.95
+  },
+  {
+    "id": "q_06a8e7bfa0618b04",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_088719d87755d612",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_094303a145209104",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.62,
+    "q2": 0.62
+  },
+  {
+    "id": "q_09e5b87e23d829c1",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_0a2a80d1dab7b589",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_0aca94b37c32e7fd",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.72,
+    "y": 0,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_0b33044b1f66184d",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_0b3bcb731f10ba8b",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_0b62d8c4f1650d3e",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_0b9afec221318f59",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_0bbf7da4e95e15e0",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_0bd0b515f4191181",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_0bf1abe6e159a61e",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.93
+  },
+  {
+    "id": "q_0bfbe9071e687e8d",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_0ca106b11a32b15d",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_0d9cab4d06a21567",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_0ddbdc858b3eecfc",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_0e64b086eaebb542",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_0ea101410737cbb4",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_0f193fedf1288705",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_0f281f5ce6550100",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_0f287d5ac0d16809",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_0f6a61434151b942",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_0ff77207a7c08661",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_0ff956f918eb953e",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.55
+  },
+  {
+    "id": "q_100e14b3fb6e2dba",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_10308027115e48ce",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_105c8fee629805eb",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.62,
+    "q2": 0.55
+  },
+  {
+    "id": "q_1080285e1a6e7d97",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.93
+  },
+  {
+    "id": "q_10884da1db523311",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_10cb735dd7c9e978",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.35
+  },
+  {
+    "id": "q_113a2286bb7b11c0",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.05,
+    "y": 0,
+    "r": 0,
+    "q": 0.05,
+    "q2": 0.05
+  },
+  {
+    "id": "q_114ecea987e47d10",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_114ef1e622ba19a3",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_11a69b7d8da3ac55",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.85,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.85
+  },
+  {
+    "id": "q_11ae9d5517d28bf0",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_11cc4ef3d1d08e33",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_1273e986056dda30",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_129b9c416a0395e2",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_12cbc1b99e28d5de",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_12dbbe0661992ece",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_12f2cba7cfe1a40c",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.98
+  },
+  {
+    "id": "q_1329b4e70759db8d",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_1371076eea7d0e47",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_13b145161883a34f",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.97
+  },
+  {
+    "id": "q_13db4bec3b78e0fa",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.97,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_13de0bbf59f2445b",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_14641404038df3e6",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_1466b660bdc98c5a",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.97
+  },
+  {
+    "id": "q_146722d31c6bd97f",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_146c942ea950bcf5",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_147092a889828e7f",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_1544b0b0e62acafb",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_157da008b2b024c4",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_15a1e1970c942b90",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.88,
+    "q2": 0.88
+  },
+  {
+    "id": "q_15ac30a6e2a9d7de",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_15b487a3386d4443",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_15bcbe0e78b9363a",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.6
+  },
+  {
+    "id": "q_15fe3a5b885d0cf2",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_16255d46ff667f78",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_1661a327c80c8220",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_168d440b8d3bd739",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_16d96adaf4d5b529",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.98
+  },
+  {
+    "id": "q_17723ab91f7f8174",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.72
+  },
+  {
+    "id": "q_17a2cbf28b6e30c4",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.97
+  },
+  {
+    "id": "q_17c59487df885737",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.12,
+    "q2": 0.35
+  },
+  {
+    "id": "q_185f0d0739a63cd3",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_188ae70af695100f",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_1a2a6ed453ee32b4",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.75
+  },
+  {
+    "id": "q_1aa4abbbc9548c9e",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_1ac6746874194f67",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.95
+  },
+  {
+    "id": "q_1ac6d7399a306b71",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_1ae7ec181668b61e",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_1b53e2bb945bdbe4",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_1b769c541f71aa56",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_1b7a221760fabdbc",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_1beed63a1420204a",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_1cb07ac4e4ae277a",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_1cc151a65c414387",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_1cddd116c4e5b223",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_1dc7b6ce43f05571",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_1edb10ea843073ee",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.95
+  },
+  {
+    "id": "q_1efa2c5bce162fb1",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.97,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_1f0ce52d1945f0cd",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_1f358b3bb7d79a8f",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.86,
+    "y": 0,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.93
+  },
+  {
+    "id": "q_1f53477a5dd77da6",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.72,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.95
+  },
+  {
+    "id": "q_1fa2fb2c9cdb54da",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_203aedbd3316391d",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_204217d5b2d4dda5",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_207061f5ad3a516a",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_2083a5a2e08a4356",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_21ab2352155d468e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_228efa2851931e17",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.9
+  },
+  {
+    "id": "q_2308f764824659db",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_231dc2717168d9c6",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.62
+  },
+  {
+    "id": "q_240338580e5ee82d",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_241344fd93dff519",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_2466897aab4aa55d",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.97
+  },
+  {
+    "id": "q_249057e79a7e970f",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.93
+  },
+  {
+    "id": "q_24e4137a1f09dbc2",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_24f3d50488729822",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_25c42c3772eb3b31",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_25cfc8f1ece4a232",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_25e6b7cc567393d5",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_25efeeeca6746e56",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_260dce0251148714",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_2656908a02f673ac",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_2686e123855e7c17",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.62,
+    "q2": 0.62
+  },
+  {
+    "id": "q_27f3a7cb43fdbc7c",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_28410cc8fcf5a50e",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_2847bc1e249cef11",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_287b0a95e22573dc",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_28b2d1fe844f4eb8",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_28eee668996d73d1",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.6
+  },
+  {
+    "id": "q_295e963eba580a25",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.95
+  },
+  {
+    "id": "q_29ae97b4cfbe5732",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_29bfe0e8421e667e",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.88,
+    "q2": 0.82
+  },
+  {
+    "id": "q_2a3eb6fe4c549417",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_2aaaa9483ffe6c05",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_2b4a833941c71af2",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.99,
+    "y": 0,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_2b6b37a6a22761fc",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_2c600ae5bdf91eba",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_2cf91bec5f1ea66c",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_2d19e0cd437a558b",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_2d6d3cada962578f",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.62,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_2d80365fac031a57",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_2d862fe19cfbda52",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_2d89540fce3adc1c",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_2df5fa32883285e7",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_2fb5382082e65a1e",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_2fd3e869fdeee65f",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_30b7309c662cc44c",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_30ddff1dd0352e48",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_30e50fa6bac0cd3d",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_30e7ec9e96d888dd",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.99
+  },
+  {
+    "id": "q_3123478892a2e48e",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.95
+  },
+  {
+    "id": "q_31e398e0f7167b78",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_32808a229350e5e2",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_3378ab1b06e97cdd",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_339675d0a9a7c1ed",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_33aaf7f3d337d195",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_33fd268d90932d7c",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_34157e46d68dcff5",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_34226fcea8732805",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_344f8ab6a9d4e976",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_34521ddcff3b4957",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_35b04c696488a8e9",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.86,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_35bdefd2535cc29f",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_35d39a3f39b826a1",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_35f82e78125241df",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_366bc20a3482beab",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_36e2270de803687c",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_3758a88f63c7088c",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_375f59dfee5a26ae",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_3793d69bb138adae",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_3882fea3b181d4e0",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_388da9cb5756f7e3",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_38a47c20cb981b72",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_38e69cdfd208be8d",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_38fa96104a34e7c9",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 1,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_391146cd39e0fcc9",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_393372d551d5f428",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.55
+  },
+  {
+    "id": "q_395cc513a0b93bde",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.62,
+    "q2": 0.6
+  },
+  {
+    "id": "q_3b036b16858fcc67",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.62
+  },
+  {
+    "id": "q_3b0448809f9ee508",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.86,
+    "q2": 0.9
+  },
+  {
+    "id": "q_3b18837bfc5734f5",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_3b3b41c23c799028",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.62,
+    "q2": 0.72
+  },
+  {
+    "id": "q_3d009a6ecb5c23c8",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_3e37b09ab47d42aa",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_3e5eaa3547933eb3",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_3ea6d0906643c20b",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_3eaddadd645cd224",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_3ecb3c6dfbcfdfb0",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_3f6ed934522d7ef9",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_40295d80d1b01bd8",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_4079f356a1205c42",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_40c4bc5062456e0a",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.2
+  },
+  {
+    "id": "q_40c771f9a3dbdfb3",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_410751853a9fe1cc",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_42330fadab63dfe8",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_424a3315ce69350e",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 0,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_42594cb4b81c5254",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.92,
+    "y": 1,
+    "r": 0,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_437e1ab780012ad8",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_446904b4e800da59",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_44ed1834e083d45c",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_44f59f8bbf00a8e5",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_45d3c05e0157250b",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_45f4f9b6cd862b81",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.35
+  },
+  {
+    "id": "q_466732ecd229b38e",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_46c0140e883ef6c3",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_47417a8f25285c4e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_479e1744f8482b1b",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 1,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_47c75ea9d32f8a13",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_481c0d6982b0527f",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_482719fd7ad51a1e",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_48e2168134389f13",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_4924a15294bbf88b",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.93
+  },
+  {
+    "id": "q_49e0e4117e006e72",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.6,
+    "y": 0,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.55
+  },
+  {
+    "id": "q_4ab1a561c53c3dd5",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_4b3da5ca74493e96",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_4b915d7a25b1653a",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_4bea9ff7272d128e",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_4c4416cba334e054",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 0,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_4d1a73cf1d7b12bc",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_4df7711607b09480",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_4e79b22de10edc63",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_4ea016c0a8856ba4",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_4eb9dc391ddc3276",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_4ef29023dc7b2dab",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 1,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_4f3224758478f320",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_4f6a936931913703",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.95
+  },
+  {
+    "id": "q_50d351bf3cb7998e",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_50de2b61bae754d1",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_50eb95b7a5bac09e",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.62
+  },
+  {
+    "id": "q_5165fa9b2487ddd5",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_516629b739715837",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_51a8ab37b11049c6",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_523df53e9040091f",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.78
+  },
+  {
+    "id": "q_525d44e670418bd0",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_5272b05669fe0137",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_52ba02f222da6da4",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_52fff3f2dc62d76c",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.45,
+    "q2": 0.45
+  },
+  {
+    "id": "q_53d274f69d882975",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_548f6b76290e6565",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_55163b48418f6656",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_55b25dc5c91d9b1c",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_55e444db7ee9d581",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_565b02029eec8c6d",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_5691106b1d3bf1e6",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_5744b42cb3b9b11e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.05,
+    "q2": 0.05
+  },
+  {
+    "id": "q_57e2dea8af7914c2",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_58b8746aaf8ec3b9",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_58db54b2f793ff18",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_58eab4db384c9c34",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 0,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_593a159a8f8ad296",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.97
+  },
+  {
+    "id": "q_596c82a12c95a443",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_597e07a62797fe68",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 1,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_5a6d61901fa43127",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_5aadea061a8d0e57",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_5ac0e59e4aebb1a5",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_5ae40ae3e3d3b788",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_5b06a21469e5127e",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_5b155ac7b4872a0e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_5b42a7726a172ca8",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_5b633f6209362788",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_5b95e80a1c8d6eed",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.2,
+    "y": 0,
+    "r": 0,
+    "q": 0.05,
+    "q2": 0.05
+  },
+  {
+    "id": "q_5bfc7f6f1daaf27e",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.85,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_5c166556578687d5",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_5c3846d254ef5c54",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 1,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_5c4f2f499b28546c",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_5c57d7e45424ad86",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 0,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_5d1d8d6fa353dcc1",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_5d1fa12bb9336277",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_5d2245364d45fb57",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_5d6849ef5f33f658",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.82,
+    "q2": 0.85
+  },
+  {
+    "id": "q_5e0f0c2cfa996409",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.62,
+    "q2": 0.62
+  },
+  {
+    "id": "q_5e19cf689fec2d84",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.55
+  },
+  {
+    "id": "q_5e57e68648dd1f74",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_5e774224bf0a4576",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_5ea9e79441b2f358",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 0,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_5ef89a97e22cace0",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.95
+  },
+  {
+    "id": "q_5f3a8bd7d0aad8d7",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 1,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_5f5c63e29be1ee57",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_5f5cba2097c50a13",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_5f61671fef3725dd",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_5f9cbcdcf8e9e110",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.45
+  },
+  {
+    "id": "q_60bf8cd89e30b851",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_60d7255053fdfebe",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_61e55d7724b1d434",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_620df55a75484348",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.9,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_632ea1d1de685222",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.93
+  },
+  {
+    "id": "q_634b26f1f90a8892",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.93
+  },
+  {
+    "id": "q_6385c2d1812d8989",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.35
+  },
+  {
+    "id": "q_63ad867a5a5e2f0c",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.55
+  },
+  {
+    "id": "q_63e78ce704f150f8",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.6
+  },
+  {
+    "id": "q_642217f9aacd8082",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_647bcd8e331caa39",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.72
+  },
+  {
+    "id": "q_65bb756b32989f7d",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_668e4ec6d061b974",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.6
+  },
+  {
+    "id": "q_66e05bdc59168261",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_6727bece85e2e7a5",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_67460d6db11fb3a3",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.99
+  },
+  {
+    "id": "q_6771ba9149cee065",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_67f5676ff41b818b",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.62,
+    "q2": 0.62
+  },
+  {
+    "id": "q_6813a113a5081457",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_6841e440fbb41aa1",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_691478b5cf7aae3e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_6abab13e6be7f4fa",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_6b9142aab8c11673",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_6b96b17e7f06ac50",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_6bc6b89ea7ff555c",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_6c781463fbfcac3c",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.85,
+    "y": 1,
+    "r": 1,
+    "q": 0.85,
+    "q2": 0.85
+  },
+  {
+    "id": "q_6c94b6a4d38f0554",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_6d4b05179eb18db5",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_6e7ac858c86fecbd",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_6eb3e1e12d154633",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_6f2135ad3d5f95a5",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_6f26bb137c1fc3f3",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_6fa732a4075e4ba7",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_6fdaaa9359ef45f2",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7072e2cce832563a",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_713aa4311061313e",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_71e285cc4b990b7b",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_72047a82499bdf98",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_72089fc6438e6da4",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_72580ffcca0637f2",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_7273aa5fe51561c0",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.62,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.72
+  },
+  {
+    "id": "q_72b473b6a5767d37",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_73cea161dbb651d4",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_73eeb75a543d2477",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_73fbd4642e81aafb",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 0,
+    "q": 0.62,
+    "q2": 0.55
+  },
+  {
+    "id": "q_7487fb1495d59676",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.55
+  },
+  {
+    "id": "q_74c67452e9577b40",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.99,
+    "y": 0,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_7527430f15dac25f",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_753abd286f6519c4",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 0,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_753b6c13348d2a0e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_75a614d5f24899ac",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.72
+  },
+  {
+    "id": "q_75e8fe3110ed7323",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_75ea42b17e4f00f1",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7662b66eca87bf86",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_7667ac7b505605e0",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_76aa81ab4ea7b4be",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_76dacda46c4bea18",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_77e236bed994c75e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 0,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_77e63bca753eb850",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_78e3f529d3b2ae96",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.62
+  },
+  {
+    "id": "q_78e96c30f3af7cc4",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.99,
+    "y": 0,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_79a2ce1e39666960",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_79e8437658496c19",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_7a41b7b286e98e9c",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_7a6452c15b844695",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.42,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.42
+  },
+  {
+    "id": "q_7a7acc1b250fee9c",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_7b33073d4ceef87b",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7bbc1f1369087af6",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_7c43e12fe46a431f",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.72
+  },
+  {
+    "id": "q_7ce802c66102eb64",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_7d2d8aae300df0d5",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_7d808ec6b66c250c",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7e244d9cf8e1f5d2",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_7e81727b74d9913d",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_7e8d9668f7635384",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_7e93155e171962c3",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7eeb0c49a931b946",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7f128be28775b11d",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_7f644ca8e92c75fa",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7f80ec9ac541807f",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_7fc9e018d985ec04",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_7fe25ce87be8bea7",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.99
+  },
+  {
+    "id": "q_805d15d552d05438",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_809426cdfe72968e",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.62,
+    "y": 0,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_8152f7f5f4c74b10",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_8167d88ca20fdf6f",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.93,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_81773f2daa264110",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_817ea07b90c0af77",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_8181a238660dac67",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_81d9570153170637",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_831be9500a530626",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.35
+  },
+  {
+    "id": "q_834d40f5d236065e",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_84dcf623be3b1535",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_855a40684bffeb63",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.9,
+    "y": 0,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.88
+  },
+  {
+    "id": "q_855eb5feabaf1bab",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_868e622d4288e54d",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_87693afe7e95c3f1",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_88066f9ee3fe12fb",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_889c8329bcff42a8",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_8985342a9ecba3f9",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_8a86cc7a2f829bf4",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_8aff076498fec662",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_8b265ec085de7a2d",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_8b61ad1a01038acf",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_8b7199f27183d932",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_8c460665476fa3fc",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.55
+  },
+  {
+    "id": "q_8cf8a0525bb50e53",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_8d2c4ebd843a82b3",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_8e3533259e641234",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_8e81eff6322fd3b9",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_8fafc989766a0c34",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.85,
+    "q2": 0.72
+  },
+  {
+    "id": "q_90016ccd8b5ad0fb",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_903800f4ff2d6efc",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_9077b76027e6b035",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_90921f1207204408",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_90f2bfc062541430",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_90fa0a11ab2cd5c2",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_9187fc71a2c89169",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_91d4cbe24baf9fb9",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.93
+  },
+  {
+    "id": "q_9254be7f1bc9d374",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_92cdb51c52d1b738",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_92e18922e106e835",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_93b0f8d57079ecd0",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_9492d280fd42e72c",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 1,
+    "r": 0,
+    "q": 0.42,
+    "q2": 0.35
+  },
+  {
+    "id": "q_94f4189f16575749",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_9501680cfcc04672",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_95378aaf40a1ed91",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.55
+  },
+  {
+    "id": "q_958fe0550899a145",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.85,
+    "q2": 0.85
+  },
+  {
+    "id": "q_95f343f832cd2747",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.62,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_9609ca7e7c8eb75c",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_9624311aaab60abd",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_96a118995de31ce9",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_9702e04cb2510af2",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_97a754f2fee7cb60",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.93
+  },
+  {
+    "id": "q_97c529e338819fcc",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_983f671d1faa4975",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_9849714528051685",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_99e5e20d902433f9",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_9a471fc26bbb2314",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_9a6378f450a9042d",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_9a7ed096c9cfd6df",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_9a89250ad8a0dab3",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.85,
+    "q2": 0.86
+  },
+  {
+    "id": "q_9a94fccde97761b9",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_9aeb502fed0b24a7",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_9bc6debc1255c66f",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.9,
+    "y": 0,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_9c1fc4997da6a16e",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_9d024ddabe122551",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_9d0919732cd377e5",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_9dde186424bcc9b7",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_9eb0a824fae397f3",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_9ecb78729db2501b",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.82,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.95
+  },
+  {
+    "id": "q_9f35bfe6c68978bc",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_9f643093f786949d",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 0,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.82
+  },
+  {
+    "id": "q_9fca1d083a0f8c8f",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_a0bf09033b4d0eeb",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_a16634bf309b1e8e",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_a369a8c2952bc58b",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_a384b75efcf9d780",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_a58129ed6ecdd815",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_a60a9ef07d767639",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.6,
+    "y": 1,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_a6116eec576d68cf",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_a6710cbdf02dab25",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_a67ee3ea78da2f61",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.72
+  },
+  {
+    "id": "q_a6d7f425f19668a4",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_a764bd5ed952c390",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_a95132984bb6a081",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_aa19c42baddae7df",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.05,
+    "q2": 0.05
+  },
+  {
+    "id": "q_aa71f869a01b7232",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_ab206d05f4236641",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_ab72a4ed486d0a2a",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_abd7bc2ffa4a4873",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_ac1fdc5d4cea8e2d",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_aca854358f48c5ad",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.97
+  },
+  {
+    "id": "q_acd57d5ded755f49",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_ad0935b89e9f14b3",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.45
+  },
+  {
+    "id": "q_ad64830fe0350012",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_ad9dd273790409e7",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_adf9af9e19197b71",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_ae8a490d6d169c3c",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_af6c166d213e15e2",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.82
+  },
+  {
+    "id": "q_b0210c067f1921fb",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.05,
+    "q2": 0.05
+  },
+  {
+    "id": "q_b03c70cdf99198cb",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_b059157832831ee7",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_b08c12bb6ae09570",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_b0abbdd06eab2ce7",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_b16c8cb94dfe943d",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.93,
+    "q2": 0.95
+  },
+  {
+    "id": "q_b1863a72520f0619",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b18e5fc88193a690",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_b18e67f39b37c00c",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_b22f652a591edbe0",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b25c753ce81aa073",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_b27d2b497a9275fd",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.88
+  },
+  {
+    "id": "q_b30b8c8c19c00dea",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_b30ef5c1f01d9c58",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b38cb77cd7cbdecc",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.93,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b3da064456ec4da8",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.82,
+    "y": 1,
+    "r": 0,
+    "q": 0.82,
+    "q2": 0.82
+  },
+  {
+    "id": "q_b3f74c8d5404ae44",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b4ca8fca6e72a9d6",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_b519722b598c09fd",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_b55045c7f6b31cd2",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_b5bee56f59c6d211",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.6
+  },
+  {
+    "id": "q_b69e5838df337bbe",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.72
+  },
+  {
+    "id": "q_b6c4f04ac62bf1aa",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_b71503cb4ff2d01a",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.45,
+    "q2": 0.55
+  },
+  {
+    "id": "q_b717d2b9834deef2",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_b75d03ad52427c0a",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b7c9e96b6cbffe41",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b7dd339ba6911773",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b85d917124fbb3fb",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_b8931f69942c229d",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_b8e2035618651e06",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_b9134ff1be3e3cc8",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_b95ef4cd7ac59198",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 0,
+    "r": 0,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_baaa0232ddadf938",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.93,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_bb84b81de1a02e94",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_bbab25baa66868ae",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.82,
+    "y": 0,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.55
+  },
+  {
+    "id": "q_bd53f28e13fc2e13",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_bee5bedab5580cd0",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_bf18ee3a6a19b7df",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 0,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_bfdb54c3e0499944",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.82
+  },
+  {
+    "id": "q_c14e9b24b4d35031",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.78
+  },
+  {
+    "id": "q_c27e358f5fd133f7",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_c2820fb728346447",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_c29535cacd5e30b1",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.62,
+    "q2": 0.62
+  },
+  {
+    "id": "q_c336086923571478",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.6
+  },
+  {
+    "id": "q_c35423cdbc6e79bc",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_c3c9bbb05ae54cab",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_c5ac50ad1c3bf455",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_c6497b2288ff4c89",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_c66b714dc6742e3b",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.93,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_c682cbc19fdc8ef6",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 0,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_c6e45a927247cbb9",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_c7abeefb38efb1f0",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_c7beb8fb5da7392d",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_c960bc38486e385f",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_c9893d29bfd8a935",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_ca2d78df9b362012",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.72,
+    "y": 1,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_cac9d28707a9292a",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_caea542484e83458",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_cbd46608ca975006",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.85,
+    "q2": 0.78
+  },
+  {
+    "id": "q_cbdbc1f9aafd0075",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.97
+  },
+  {
+    "id": "q_cbf773c560f0010f",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_cc0944e00856d5a6",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_ccdc896252aab651",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_ccf9cbb6c9b7e3a3",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_ce2c683ed3e4b80a",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_ce506d6334978812",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.55
+  },
+  {
+    "id": "q_cf002e13d52de193",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.98,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_d04ea67e482c592d",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_d1482b630fd4cf23",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_d1514bb95d46856d",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_d213b4d3805458f9",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.2,
+    "y": 0,
+    "r": 0,
+    "q": 0.2,
+    "q2": 0.2
+  },
+  {
+    "id": "q_d2513583aebd3e8b",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.72
+  },
+  {
+    "id": "q_d36a8b77f8355bbc",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_d37c1a77f8e1d6da",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_d3b7aa907d631897",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_d5e3c07c72bd71b2",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_d6457c989df7b295",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.62,
+    "y": 0,
+    "r": 1,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_d6490e0cb1a5f9ac",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_d679687f17275474",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 1,
+    "q": 0.62,
+    "q2": 0.62
+  },
+  {
+    "id": "q_d7116db9a1c58f95",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_d7e7af7004c1bb85",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_d7f242067d80f73a",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_d7faf1df8a1dd7b2",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_d89db53f80750398",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 0,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_d9592bd47d0afcbd",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 0,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_d9b8fcd0df5fe5c2",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_d9e01629c05c288e",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_d9e3165c1d05fed5",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_da382bb0b3f9aede",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_da7064a7f3c50472",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.93
+  },
+  {
+    "id": "q_dad5c0c20289c792",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.93
+  },
+  {
+    "id": "q_db303cc72b759633",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.88,
+    "q2": 0.88
+  },
+  {
+    "id": "q_dbb53e365ec8d26a",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_dc4fb0d83d60763b",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_dc5cfa920e886e12",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_dce1e8304dd847ad",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_dcffc0443fd662e7",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.78,
+    "q2": 0.72
+  },
+  {
+    "id": "q_dd712aa6be9c2517",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_ddd2df32eb16b6eb",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_ddea24ad2574d273",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.82,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.55
+  },
+  {
+    "id": "q_ddfe39df4dd59dc5",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_de4e133de99e8821",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.98
+  },
+  {
+    "id": "q_e042ae869cb0844a",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 1,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_e09766955b0a3286",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_e12c58c10362bfe1",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_e15e0733ec72f061",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_e1b645e206f21e32",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_e2815750d3f1691c",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_e2fe9051a097c78a",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_e35a22bd290d5034",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_e427df2cf9edccd6",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_e4f8f0ca70517332",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_e5104aacfa54cbc0",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.62,
+    "q2": 0.62
+  },
+  {
+    "id": "q_e65a520fcb014e83",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.95
+  },
+  {
+    "id": "q_e6780d9d5d799671",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_e6a1b5b35ec64052",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_e75048af2b98b583",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.85,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_e811ade36634d98a",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.78,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.9
+  },
+  {
+    "id": "q_e8f21aa863961b90",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.93,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.95
+  },
+  {
+    "id": "q_e9b6197122cd291e",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_ea048ce2efe41050",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_ea1e4c18fe4771ae",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_ec8d9235ac722047",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_eca1b39414b56b12",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.85,
+    "y": 1,
+    "r": 1,
+    "q": 0.85,
+    "q2": 0.85
+  },
+  {
+    "id": "q_ed00eb996af371ec",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_ee2704892174bc7b",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 1,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_ee40efd014616b15",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.9,
+    "q2": 0.55
+  },
+  {
+    "id": "q_ee53c0c624d92750",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_ee6d2f70913a8e55",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_ee72da48d26a291d",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_ee7665979a14cfe6",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.98
+  },
+  {
+    "id": "q_eed843e88602b9d2",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_eee6cdd0dee55522",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_ef162765fa97bf40",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.6,
+    "q2": 0.6
+  },
+  {
+    "id": "q_ef74c210fb49bb4b",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.62,
+    "y": 1,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_efbe2705a34b66bd",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_f099569ba26d5732",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.9
+  },
+  {
+    "id": "q_f12ef2e857ead712",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_f13f7ba643044f43",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 0,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_f150d00eb12759d2",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.72,
+    "q2": 0.62
+  },
+  {
+    "id": "q_f182e77c252f21f9",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_f1cc8957de1711fc",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_f2321b0233fc8da1",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 1,
+    "r": 1,
+    "q": 0.9,
+    "q2": 0.72
+  },
+  {
+    "id": "q_f23706a874320f6e",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_f277f729b7922e87",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_f294d2781691e778",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_f2abff8026b37b58",
+    "domain": "biology",
+    "split": "development",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.9
+  },
+  {
+    "id": "q_f2dd47e028edad90",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.98,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_f3188be6ae1b28ea",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.45
+  },
+  {
+    "id": "q_f35d119e12b98a29",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.45,
+    "q2": 0.35
+  },
+  {
+    "id": "q_f4390b8f48491b12",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.45,
+    "q2": 0.45
+  },
+  {
+    "id": "q_f4b337ae0ef6ec14",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 0,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.93
+  },
+  {
+    "id": "q_f591fd667b5856a6",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_f595164b896a1772",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.55
+  },
+  {
+    "id": "q_f61606faa0f102e9",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.35
+  },
+  {
+    "id": "q_f69d916346f733f6",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.5,
+    "q2": 0.5
+  },
+  {
+    "id": "q_f6e183fb1c7d19ea",
+    "domain": "psychology",
+    "split": "development",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_f70a0de8e2adad70",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_f7b19b148fd81225",
+    "domain": "economics",
+    "split": "development",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_f7bb5af4fd04420a",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.86,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.93
+  },
+  {
+    "id": "q_f81caafc8cedb983",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.82,
+    "q2": 0.82
+  },
+  {
+    "id": "q_f8604ef03a17176a",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_f9285a4b47116f5d",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.92,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_f984ac43e02d86d0",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.82,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.9
+  },
+  {
+    "id": "q_f988bd915900a404",
+    "domain": "engineering",
+    "split": "development",
+    "p": 0.35,
+    "y": 0,
+    "r": 1,
+    "q": 0.35,
+    "q2": 0.35
+  },
+  {
+    "id": "q_f9f10d6fd287948b",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.98,
+    "q2": 0.98
+  },
+  {
+    "id": "q_fa16b5470dadde53",
+    "domain": "biology",
+    "split": "calibration",
+    "p": 0.99,
+    "y": 1,
+    "r": 1,
+    "q": 0.99,
+    "q2": 0.99
+  },
+  {
+    "id": "q_fa25d97b134e5468",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 0,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_fa7247a1aa6686ee",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  },
+  {
+    "id": "q_fb341a629f99f1ae",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.9,
+    "y": 1,
+    "r": 1,
+    "q": 0.95,
+    "q2": 0.95
+  },
+  {
+    "id": "q_fc438e465e87e9b9",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.72,
+    "y": 0,
+    "r": 1,
+    "q": 0.72,
+    "q2": 0.72
+  },
+  {
+    "id": "q_fc4628b240235402",
+    "domain": "engineering",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 1,
+    "r": 0,
+    "q": 0.55,
+    "q2": 0.55
+  },
+  {
+    "id": "q_fce1b8bd33254065",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.55,
+    "y": 0,
+    "r": 0,
+    "q": 0.45,
+    "q2": 0.45
+  },
+  {
+    "id": "q_fdfd7529b3a27ff6",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.95,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.99
+  },
+  {
+    "id": "q_fe487b3ff33aa50a",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.35,
+    "y": 0,
+    "r": 0,
+    "q": 0.35,
+    "q2": 0.42
+  },
+  {
+    "id": "q_fedfe082d6403f8b",
+    "domain": "economics",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 0,
+    "r": 0,
+    "q": 0.02,
+    "q2": 0.02
+  },
+  {
+    "id": "q_ff46296a21373abe",
+    "domain": "psychology",
+    "split": "calibration",
+    "p": 0.97,
+    "y": 1,
+    "r": 1,
+    "q": 0.97,
+    "q2": 0.97
+  }
+]

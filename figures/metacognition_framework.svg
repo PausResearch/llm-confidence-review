@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="206" preserveAspectRatio="xMinYMin meet" viewBox="0 0 660 206" version="1.0" fill-rule="evenodd" role="img" aria-labelledby="figure-title figure-description">
+	<title id="figure-title">Where the study fits in metacognition</title><desc id="figure-description">Cognition concerns the answer. Metacognitive monitoring asks how likely the answer is to be correct. Meta-metacognition, highlighted as the study focus, asks how trustworthy that confidence judgment is. Arrows point from each assessment to its target. Dashed arrows show that these judgments could inform metacognitive control: proceeding, checking or abstaining. Control is a potential application and is not tested here. These are conceptual distinctions from human metacognition research, not established separate internal mechanisms or an API call sequence. The study tests whether confidence review adds predictive information beyond ordinary answer reassessment.</desc><title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="660" height="206" />
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-206)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="660" height="206" style="stroke: none; stroke-linecap: butt; stroke-width: 0.9; fill: rgb(100%,100%,100%); fill-rule: evenodd;" />
+			<rect x="4" y="159" width="420" height="42" rx="1" ry="1" style="stroke: rgb(80%,83%,86%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(98%,98%,98%); fill-rule: evenodd;" />
+			<text x="16" y="177" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 12.4px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,354) scale(1,-1)" font-family="Arial" font-weight="bold">Cognition</text>
+			<text x="181" y="176" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12.2px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,352) scale(1,-1)" font-family="Arial" font-weight="normal">What is the answer?</text>
+			<rect x="4" y="97" width="420" height="44" rx="1" ry="1" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(95%,96%,98%); fill-rule: evenodd;" />
+			<text x="16" y="121" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 12.4px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,242) scale(1,-1)" font-family="Arial" font-weight="bold">Metacognition</text>
+			<text x="181" y="122" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12.2px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,244) scale(1,-1)" font-family="Arial" font-weight="normal">How likely is my answer</text>
+			<text x="181" y="106" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12.2px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,212) scale(1,-1)" font-family="Arial" font-weight="normal">to be correct?</text>
+			<rect x="4" y="29" width="420" height="50" rx="1" ry="1" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(93%,97%,96%); fill-rule: evenodd;" />
+			<text x="16" y="59" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 12.4px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,118) scale(1,-1)" font-family="Arial" font-weight="bold">Meta-metacognition</text>
+			<text x="181" y="60" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12.2px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,120) scale(1,-1)" font-family="Arial" font-weight="normal">How trustworthy is</text>
+			<text x="181" y="44" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12.2px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,88) scale(1,-1)" font-family="Arial" font-weight="normal">that confidence judgment?</text>
+			<text x="16" y="103" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.4px;fill: rgb(25%,40%,54%); stroke:none;" transform="translate(0,206) scale(1,-1)" font-family="Arial" font-weight="normal">MONITORING</text>
+			<text x="16" y="41" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 10.4px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,82) scale(1,-1)" font-family="Arial" font-weight="bold">OUR FOCUS</text>
+			<path d="M 405,141 L 405,159 Z" style="stroke: rgb(25%,40%,54%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<polygon points="405 159, 402.5 154, 407.5 154" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(25%,40%,54%); fill-rule: evenodd;" />
+			<text x="295.8952" y="147" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.4px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,294) scale(1,-1)" font-family="Arial" font-weight="normal">assesses the answer</text>
+			<path d="M 405,79 L 405,97 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 1.1;" />
+			<polygon points="405 97, 402.5 92, 407.5 92" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;" />
+			<text x="279.12" y="85" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.4px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,170) scale(1,-1)" font-family="Arial" font-weight="normal">assesses the confidence</text>
+			<path d="M 424,119 L 448,119 Z" style="stroke: rgb(32%,38%,43%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;" />
+			<path d="M 424,54 L 448,54 Z" style="stroke: rgb(32%,38%,43%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;" />
+			<path d="M 448,119 L 448,54 Z" style="stroke: rgb(32%,38%,43%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 3, 3;" />
+			<path d="M 448,86 L 485,86 Z" style="stroke: rgb(32%,38%,43%); stroke-linecap: butt; stroke-width: 1.1; stroke-dasharray: 3, 3;" />
+			<polygon points="485 86, 480 88.5, 480 83.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,38%,43%); fill-rule: evenodd;" />
+			<text x="455" y="130" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.7px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,260) scale(1,-1)" font-family="Arial" font-weight="normal">could guide</text>
+			<rect x="485" y="52" width="171" height="69" rx="1" ry="1" style="stroke: rgb(80%,83%,86%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(98%,98%,98%); fill-rule: evenodd;" />
+			<text x="497" y="103" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 12.1px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,206) scale(1,-1)" font-family="Arial" font-weight="bold">Metacognitive control</text>
+			<text x="497" y="83" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12.2px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,166) scale(1,-1)" font-family="Arial" font-weight="normal">Proceed, check</text>
+			<text x="497" y="67" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 12.2px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,134) scale(1,-1)" font-family="Arial" font-weight="normal">or abstain?</text>
+			<text x="497" y="34" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,68) scale(1,-1)" font-family="Arial" font-weight="normal">Potential application</text>
+			<text x="497" y="20" style="font-family: Arial, sans-serif; font-weight: normal; font-size: 10.8px;fill: rgb(32%,38%,43%); stroke:none;" transform="translate(0,40) scale(1,-1)" font-family="Arial" font-weight="normal">Not tested here</text>
+			<text x="4" y="4" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 12px;fill: rgb(8%,13%,20%); stroke:none;" transform="translate(0,8) scale(1,-1)" font-family="Arial" font-weight="bold">Our test: Does confidence review add information beyond ordinary reassessment?</text>
+		</g>
+	</g>
+</svg>

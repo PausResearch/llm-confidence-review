@@ -1,0 +1,262 @@
+{
+  "p": {
+    "domains": [
+      "biology",
+      "economics",
+      "engineering",
+      "psychology"
+    ],
+    "reference_domain": "biology",
+    "signals": [],
+    "feature_names": [
+      "intercept",
+      "domain=economics",
+      "domain=engineering",
+      "domain=psychology",
+      "logit_p"
+    ],
+    "scalers": {
+      "p": {
+        "mean": 1.9367947913704262,
+        "scale": 1.6448240789470512,
+        "constant": false,
+        "transform": "clipped_logit"
+      }
+    },
+    "ridge": 1.0,
+    "clip": 0.0001,
+    "coefficients": [
+      1.6209783194455465,
+      -0.16538029572477822,
+      -0.7864368834654634,
+      0.06464822724446168,
+      1.0258078970985125
+    ],
+    "n_fit": 480,
+    "optimizer_message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+    "objective": 220.1655731295094,
+    "max_abs_gradient": 2.783944095696711e-06
+  },
+  "p_q": {
+    "domains": [
+      "biology",
+      "economics",
+      "engineering",
+      "psychology"
+    ],
+    "reference_domain": "biology",
+    "signals": [
+      "q"
+    ],
+    "feature_names": [
+      "intercept",
+      "domain=economics",
+      "domain=engineering",
+      "domain=psychology",
+      "logit_p",
+      "q",
+      "q*logit_p"
+    ],
+    "scalers": {
+      "p": {
+        "mean": 1.9367947913704262,
+        "scale": 1.6448240789470512,
+        "constant": false,
+        "transform": "clipped_logit"
+      },
+      "q": {
+        "mean": 2.2744251354936913,
+        "scale": 1.83768637773955,
+        "constant": false,
+        "transform": "clipped_logit"
+      }
+    },
+    "ridge": 1.0,
+    "clip": 0.0001,
+    "coefficients": [
+      1.7190504843023415,
+      -0.1365592177166587,
+      -0.6325083347069517,
+      0.0433958283033652,
+      0.20054994426455258,
+      0.8622205911901875,
+      -0.15607396365045484
+    ],
+    "n_fit": 480,
+    "optimizer_message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+    "objective": 213.51315536517137,
+    "max_abs_gradient": 1.1161959645011876e-05
+  },
+  "p_r": {
+    "domains": [
+      "biology",
+      "economics",
+      "engineering",
+      "psychology"
+    ],
+    "reference_domain": "biology",
+    "signals": [
+      "r"
+    ],
+    "feature_names": [
+      "intercept",
+      "domain=economics",
+      "domain=engineering",
+      "domain=psychology",
+      "logit_p",
+      "r",
+      "r*logit_p"
+    ],
+    "scalers": {
+      "p": {
+        "mean": 1.9367947913704262,
+        "scale": 1.6448240789470512,
+        "constant": false,
+        "transform": "clipped_logit"
+      },
+      "r": {
+        "mean": 0.6770833333333334,
+        "scale": 0.46759116015548835,
+        "constant": false,
+        "transform": "binary"
+      }
+    },
+    "ridge": 1.0,
+    "clip": 0.0001,
+    "coefficients": [
+      1.627980172766772,
+      -0.20541406741440046,
+      -0.7217855766759612,
+      -0.09759050639570577,
+      0.8158605462840294,
+      0.6879296553839614,
+      0.29682941760457865
+    ],
+    "n_fit": 480,
+    "optimizer_message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+    "objective": 208.57350999130068,
+    "max_abs_gradient": 5.174558648346483e-06
+  },
+  "p_q_r": {
+    "domains": [
+      "biology",
+      "economics",
+      "engineering",
+      "psychology"
+    ],
+    "reference_domain": "biology",
+    "signals": [
+      "q",
+      "r"
+    ],
+    "feature_names": [
+      "intercept",
+      "domain=economics",
+      "domain=engineering",
+      "domain=psychology",
+      "logit_p",
+      "q",
+      "q*logit_p",
+      "r",
+      "r*logit_p"
+    ],
+    "scalers": {
+      "p": {
+        "mean": 1.9367947913704262,
+        "scale": 1.6448240789470512,
+        "constant": false,
+        "transform": "clipped_logit"
+      },
+      "q": {
+        "mean": 2.2744251354936913,
+        "scale": 1.83768637773955,
+        "constant": false,
+        "transform": "clipped_logit"
+      },
+      "r": {
+        "mean": 0.6770833333333334,
+        "scale": 0.46759116015548835,
+        "constant": false,
+        "transform": "binary"
+      }
+    },
+    "ridge": 1.0,
+    "clip": 0.0001,
+    "coefficients": [
+      1.761309129786693,
+      -0.20656351350469004,
+      -0.5967975867859668,
+      -0.11438395407516462,
+      0.29700591238900836,
+      0.5573588452670013,
+      -0.2014849423519457,
+      0.6135069079315145,
+      0.3111771460691664
+    ],
+    "n_fit": 480,
+    "optimizer_message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+    "objective": 204.83709278304661,
+    "max_abs_gradient": 2.1214986625550658e-05
+  },
+  "p_q_q2": {
+    "domains": [
+      "biology",
+      "economics",
+      "engineering",
+      "psychology"
+    ],
+    "reference_domain": "biology",
+    "signals": [
+      "q",
+      "q2"
+    ],
+    "feature_names": [
+      "intercept",
+      "domain=economics",
+      "domain=engineering",
+      "domain=psychology",
+      "logit_p",
+      "q",
+      "q*logit_p",
+      "q2",
+      "q2*logit_p"
+    ],
+    "scalers": {
+      "p": {
+        "mean": 1.9367947913704262,
+        "scale": 1.6448240789470512,
+        "constant": false,
+        "transform": "clipped_logit"
+      },
+      "q": {
+        "mean": 2.2744251354936913,
+        "scale": 1.83768637773955,
+        "constant": false,
+        "transform": "clipped_logit"
+      },
+      "q2": {
+        "mean": 2.2709005285656843,
+        "scale": 1.862747108364791,
+        "constant": false,
+        "transform": "clipped_logit"
+      }
+    },
+    "ridge": 1.0,
+    "clip": 0.0001,
+    "coefficients": [
+      1.7621319270991311,
+      -0.16384861041516435,
+      -0.6225373247561243,
+      -0.013785060718312106,
+      0.016169145459446872,
+      0.2627292294997948,
+      -0.15615056441346872,
+      0.7944987857535402,
+      -0.019877750932276776
+    ],
+    "n_fit": 480,
+    "optimizer_message": "CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH",
+    "objective": 211.95874011727307,
+    "max_abs_gradient": 4.2736589329375047e-05
+  }
+}
