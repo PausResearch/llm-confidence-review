@@ -6,7 +6,7 @@
 
 This project was developed for [Apart Research’s AI × Epistemics Research Sprint](https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15), held November 13–15, 2026. It addresses **Track 1: Model Epistemics & Decision-Making Evals**, investigating whether reviewing an LLM’s confidence provides useful information about the reliability of its answers.
 
-AI systems increasingly advise people and make decisions on their behalf. A central question is whether they can recognize the limits of their own knowledge—and judge when their own sense of certainty is unreliable.
+AI systems increasingly advise people and make decisions on their behalf. A central question is whether they can recognize the limits of their own knowledge and judge when their own sense of certainty is unreliable.
 
 Human research studies assessments of one's own thinking as metacognition, and judgments about the quality of one's confidence as meta-metacognition. We investigate the latter through a concrete behavioral test: does asking an LLM to judge whether its confidence is warranted help identify its mistakes beyond asking it to reconsider the answer?
 
